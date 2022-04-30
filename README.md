@@ -1,2 +1,2 @@
-# Machine-Learning-ML-Fake-News-Detection
-Developed by Nooruddin
+# Machine-Learning-Fake-News-Detection
+ 
