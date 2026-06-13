@@ -1,4 +1,11 @@
-# Byte-compiled / optimized / DLL files
+# Dataset files (download separately — see data/README.md)
+data/*.csv
+data/*.zip
+
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
+
 __pycache__/
 *.py[cod]
 *$py.class
